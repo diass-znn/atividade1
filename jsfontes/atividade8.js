@@ -5,6 +5,8 @@ let email = 'Hd8976@gmail.com'
 let rua = ' rua oito'
 let sobrenome = 'oliveira'
 let numeroCasa = 122
+let nome3 = 'vitor'
+let nome2 = 'matheus '
 
 console.log(nome);
 console.log(idade);
