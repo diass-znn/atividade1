@@ -1,7 +1,7 @@
-function ListaMercado(itensLimpesa, itensAlimento, itensFrutas, itensGeladeira, itensPadaria, itensCaixa) {
+function ListaMercado(itensLimpeza, itensAlimento, itensFrutas, itensGeladeira, itensPadaria, itensCaixa) {
 
 
-    console.log(`itens limpesa: ${itensLimpesa[0]}, ${itensLimpesa[1]}, ${itensLimpesa[2]}`)
+    console.log(`itens limpesa: ${itensLimpeza[0]}, ${itensLimpeza[1]}, ${itensLimpeza[2]}`)
     console.log(`itens alimento: ${itensAlimento[0]}, ${itensAlimento[1]}, ${itensAlimento[2]}`)
     console.log(`itens frutas: ${itensFrutas[0]}, ${itensFrutas[1]}, ${itensFrutas[2]}`)
     console.log(`itens geladeira: ${itensGeladeira[0]}, ${itensGeladeira[1]}, ${itensGeladeira[2]}`)
